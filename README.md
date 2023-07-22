@@ -11,8 +11,7 @@ This Java program enables users to play a game of Guess The Word. The program de
 
 ## `Game Instructions`
 <li>Users can start the game by clicking on the start button.</li>
-<li>An incomplete word is diplay to the user.</li>
-<li>Diplay the words one by one</li>
+<li>Display the incomplete words one by one.</li>
 <li>user will guess the word and result will be displayed on the screen</li>
 
 ## `Tech Stack Used`

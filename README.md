@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="# Rock Paper Scissors"></a>
-  Rock Paper Scissors
+  Guess The Word
 </h1>
 
 ## `Project Title`

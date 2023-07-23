@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="# Rock Paper Scissors"></a>
+  <a href="# Guess The Word"></a>
   Guess The Word
 </h1>
 
